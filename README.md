@@ -1,6 +1,9 @@
+## Godevices Landing Page
 
+### 📖 Deskripsi
+Landing Page ini dibuat untuk memenuhi tugas dari kelas Front-End Web Development di Godev Academy. Landing Page ini dibuat dengan menggunakan HTML, CSS, dan Javascript. Landing Page ini dibuat dengan tema "Laptop" dan menggunakan beberapa teknik CSS seperti Flexbox, Grid, dan Media Query.
 
-![Sceenshoot](https://github.com/andikatuluspangestu/godevices-landingpage/raw/main/Go-Devices-Compare-you-most-popular-devices%20(1).png)
+![Sceenshoot](https://github.com/andikatuluspangestu/godevices-landingpage/raw/main/preview.png)
 	
 ### 🤝 Bagaimana saya berkontribusi?
 Aplikasi ini Open Source, jika kamu ingin berkontribusi dalam pengembangan untuk belajar silahkan Clone Repo ini dan Pull Requests.
